@@ -18,7 +18,7 @@ Main | {{% resource_link 7772984a-0715-ec47-488a-c34f735f05c9 "Hardware" %}} | {
 MagLev Demonstration
 --------------------
 
-{{< resource 00fc35b0-c240-60ab-5932-7deb807b9e18 "Photograph of levitating ball." >}}
+{{< resource "00fc35b0-c240-60ab-5932-7deb807b9e18" >}}
 
 A steel ball bearing is suspended in air by an actively controlled electromagnet.
 
