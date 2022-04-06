@@ -47,7 +47,7 @@ The data can then be processed into a plot that can be used to deduce the time c
 
 Figure 5. Response of a first order system to an initial displacement. (Image by Prof. Trumper.)
 
-[{{< resource "592c6073-0998-9274-e971-2d3fdd5b4e8a" >}}](/ans7870/2/2.003/s05/labs/Lab1.mov)
+{{< resource uuid="592c6073-0998-9274-e971-2d3fdd5b4e8a" href="/ans7870/2/2.003/s05/labs/Lab1.mov" >}}
 
 Figure 6. Video Demonstration. (Image by Prof. Trumper.)
 
